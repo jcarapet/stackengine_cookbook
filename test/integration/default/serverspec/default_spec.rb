@@ -6,6 +6,6 @@ describe file('/usr/local/stackengine/stackengine') do
 	it { should be_file}
 end
 
-describe port (80) do 
+describe port (4243) do 
 	it { should be_listening }
 end
