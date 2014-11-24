@@ -8,9 +8,17 @@ PLEASE NOTE!!! This is not an official stackengine implementation and will never
 
 TODO: Ubuntu 14.04
 
+
+NOT INITIAL FOCUS: Centos, Rhel systems. 
+will need to add case statements which are frowned upon to get things done. 
+
 ## Attributes
 
+No attributes yet, but some that come to mind is a working directory for deploys, names of containers, and names of master vs slave setup
+
 ## Usage
+
+This will be good for initially setting up workstations and eventually will be extended for creating an end to end system. 
 
 ### stackengine::default
 

@@ -6,3 +6,6 @@ description      'Installs/Configures stackengine'
 long_description 'Installs/Configures stackengine'
 version          '0.1.0'
 
+depends "apt"
+depends "docker"
+depends "iptables"
